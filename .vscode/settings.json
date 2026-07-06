@@ -1,0 +1,7 @@
+{
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda",
+  "python.defaultInterpreterPath": "/Volumes/externalSamsung/externalHome/miniconda3/envs/nyc_airbnb_dev/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "jupyter.jupyterServerType": "local"
+}
